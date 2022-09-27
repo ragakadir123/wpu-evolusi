@@ -2,15 +2,15 @@
   > kelas 1
   > kelas 2
   > kelas 3
-  > kelas 4
+  > Kelas 4
   > kelas 5
   > kelas 6
 - Sekolah Menengah Pendidikan
-  > kelas 1
-  > kelas 2
-  > kelas 3
+  > kelas 7
+  > kelas 8
+  > kelas 9
 - Sekolah Menengah Atas
-  > kelas 1
-  > kelas 2
-  > kelas 3
+  > kelas 10
+  > kelas 11
+  > kelas 12
 - Sarjanah
