@@ -1,4 +1,16 @@
 - Sekolah Dasar
+  > kelas 1
+  > kelas 2
+  > kelas 3
+  > kelas 4
+  > kelas 5
+  > kelas 6
 - Sekolah Menengah Pendidikan
+  > kelas 1
+  > kelas 2
+  > kelas 3
 - Sekolah Menengah Atas
+  > kelas 1
+  > kelas 2
+  > kelas 3
 - Sarjanah
