@@ -1,0 +1,4 @@
+- Sekolah Dasar
+- Sekolah Menengah Pendidikan
+- Sekolah Menengah Atas
+- Sarjanah
