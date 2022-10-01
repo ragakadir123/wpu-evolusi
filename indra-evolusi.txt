@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya indra dari kalimantan timur
+
+evolusi saya :
+- membuat website menggunakan framework laravel
+- bekerja di start-up
