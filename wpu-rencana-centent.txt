@@ -5,7 +5,7 @@ Rencana Konten WPU
   *Freamework Javascript
    ^Vue
    ^React
-   ^angular
+   ^emberjs
 - Struktur Data dasar
 - PHP Frameworks
   ^ Laravel
